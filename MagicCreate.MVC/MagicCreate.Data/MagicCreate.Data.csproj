@@ -54,7 +54,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="Commander.cs" />
+    <Compile Include="CommanderGame.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Legacy.cs" />
+    <Compile Include="LegacyGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
